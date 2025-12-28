@@ -70,9 +70,7 @@ To-Do_List/
 
 1. Download or clone this repository  
    ```bash
-   
    git clone https://github.com/MAXxDEVIL/To-Do_List.git
-
 ---
 
 ⭐ If you like this project, don’t forget to give it a star!
